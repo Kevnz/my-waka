@@ -1,0 +1,17 @@
+{
+  "name": "mywaka",
+  "version": "1.0.0",
+  "description": "Log My Waka Time",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Isom <kevin.isom@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "pushbullet": "^1.4.3",
+    "wakatoday": "^0.2.2",
+    "xtconf": "^2.0.0"
+  }
+}
